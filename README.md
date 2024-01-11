@@ -5,7 +5,7 @@
 India has a surplus power generation capacity but lacks adequate distribution infrastructure.ndia's electricity sector is dominated by fossil fuels, in particular coal, which during the 2018-19 fiscal year produced about three-quarters of the country's electricity.The government is making efforts to increase investment in renewable energy. The government's National Electricity Plan of 2018 states that the country does not need more non-renewable power plants in the utility sector until 2027, with the commissioning of 50,025 MW coal-based power plants under construction and addition of 275,000 MW total renewable power capacity after the retirement of nearly 48,000 MW old coal-fired plants."
 
 ## **Data Sourcing/Credits**
-The dataset used for this project can be found on Kaggle, **"Daily Power Generation in Indian (2017-2020)"**. This dataset was created by users **"Navin"** and **"Twinkle Khanna"**. 'Data has been extracted from openly available reports of National Power Portal at "https://npp.gov.in/".'
+The dataset used for this project can be found on Kaggle, **"Daily Power Generation in Indian (2017 - 2020)"**. This dataset was created by users **"Navin"** and **"Twinkle Khanna"**.  
 
 ### **Objectives:**
 - Perform exploratory data analysis on the data set to find key insights.
