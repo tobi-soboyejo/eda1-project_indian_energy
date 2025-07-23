@@ -9,7 +9,7 @@ The dataset used for this project can be found on Kaggle, **"Daily Power Generat
 
 ### **Objectives:**
 - Perform exploratory data analysis on the data set to find key insights.
-- Perform data cleaning and data structuring to ensure data set is in good condition to work with.
+- Perform data cleaning and data structuring to ensure that the data set is in good condition to work with.
 - Create appealing graphs and images using Python that highlight findings and point out trends and patterns.
 
 ## **Data Description**
